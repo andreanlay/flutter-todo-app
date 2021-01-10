@@ -1,6 +1,4 @@
-<h1 align="center">
-  To Do App with Firebase
-</h1>
+# To Do App
 
 ![](https://github.com/andreanlay/todo-flutter/blob/master/demo.gif)
 
